@@ -151,7 +151,7 @@ extension.skeleton.main.layers.section.shortcuts = {
 									value: {
 										keys: {
 											188: {
-												key: '<'
+												key: '>'
 											}
 										}
 									}
@@ -163,7 +163,7 @@ extension.skeleton.main.layers.section.shortcuts = {
 									value: {
 										keys: {
 											190: {
-												key: '>'
+												key: '<'
 											}
 										}
 									}
